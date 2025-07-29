@@ -1,4 +1,4 @@
-I'm a PhD student working on maintenance-scheduling problems in complex machinery, focusing on Dantzig-Wolfe decompositions. I'm also a contributor at [PySCIPOpt](https://github.com/scipopt/PySCIPOpt), the Python interface for the academic solver [SCIP](https://www.scipopt.org).
+I'm a PhD student working on maintenance-scheduling problems in complex machinery, focusing on Dantzig-Wolfe decompositions. I'm also the maintainer of [PySCIPOpt](https://github.com/scipopt/PySCIPOpt), the Python interface for the academic solver [SCIP](https://www.scipopt.org).
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/joao-dionisio/) and [ResearchGate](https://www.researchgate.net/profile/Joao_Dionisio6). 
 
